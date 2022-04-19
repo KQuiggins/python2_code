@@ -1,0 +1,1 @@
+<h1 style="color:red">{{msg}}</h1>
